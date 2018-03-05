@@ -1,0 +1,13 @@
+param n := 2;
+
+param capacity := 40;
+param profit :=
+	1 10
+	2 15;
+param r :=
+	1 40
+	2 30;
+	
+param maxDemand := 
+	1 1000
+	2 860;
